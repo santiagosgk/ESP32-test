@@ -7,13 +7,13 @@ import { getDatabase, ref, onValue } from "https://www.gstatic.com/firebasejs/11
 
 // Firebase configuration
 const firebaseConfig = {
-    apiKey: "REPLACE_WITH_YOUR_Firebase_CONFIGURATION",
-    authDomain: "REPLACE_WITH_YOUR_Firebase_CONFIGURATION",
-    databaseURL: "REPLACE_WITH_YOUR_Firebase_CONFIGURATION",
-    projectId: "REPLACE_WITH_YOUR_Firebase_CONFIGURATION",
-    storageBucket: "REPLACE_WITH_YOUR_Firebase_CONFIGURATION",
-    messagingSenderId: "REPLACE_WITH_YOUR_Firebase_CONFIGURATION",
-    appId: "REPLACE_WITH_YOUR_Firebase_CONFIGURATION"
+  apiKey: "AIzaSyCIwLKTs6oVcn44HiGH5MupYxBJSrKND9M",
+  authDomain: "test-esp32-8e3be.firebaseapp.com",
+  databaseURL: "https://test-esp32-8e3be-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "test-esp32-8e3be",
+  storageBucket: "test-esp32-8e3be.firebasestorage.app",
+  messagingSenderId: "62571711874",
+  appId: "1:62571711874:web:cac830cf172b5f9c6a139b"
 };
 
 // Initialize Firebase
